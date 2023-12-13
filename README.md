@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Astroprototype](astroprototype.me/OEP)
 
-- 🌱 I’m currently learning **Php and Stuff**
+- 🌱 I’m currently learning **JAVA DSA and Stuff**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nikhileshrana/](https://github.com/Nikhileshrana/)
 
