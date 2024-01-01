@@ -5,10 +5,10 @@
 <h3 align="left">Strengthening Creativity and Backend Skills. Distinguished By Full Stack Developer. ;)</h3>
 
 
+- 👨‍💻 All of my projects are available at [https://nikhileshrana.tech/](https://nikhileshrana.tech)
+
+
 - 📄 Know about my experiences [https://resume.io/r/1DpFELsZu](https://resume.io/r/1DpFELsZu)
-
-
-- 👨‍💻 All of my projects are available at [https://nikhileshrana.tech/](https://nikhileshrana.tech/)
 
 ###
 
