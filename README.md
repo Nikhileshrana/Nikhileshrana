@@ -68,10 +68,6 @@
 
 ###
 
-<img align="right" height="150" src="https://www.nikhileshrana.tech/uploads/1704025182493-IMG20221002181000.jpg"  />
-
-###
-
 <img src="https://raw.githubusercontent.com/Nikhileshrana/Nikhileshrana/output/snake.svg" alt="Snake animation" />
 
 ###
