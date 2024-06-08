@@ -7,9 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [Nikhileshrana.tech](https://nikhileshrana.tech/)
 
-
-- 📄 Know about my experiences : [RESUME](https://resume.io/r/1DpFELsZu)
-
 ###
 
 <div align="left">
