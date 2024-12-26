@@ -5,7 +5,7 @@
 <h3 align="left">Strengthening Creativity and Backend Skills. Distinguished By Full Stack Developer. ;)</h3>
 
 
-- 👨‍💻 All of my projects are available at [Nikhileshrana.tech](https://nikhileshrana.tech/)
+- 👨‍💻 All of my projects are available at [Nikhileshrana.com](https://nikhileshrana.com/)
 
 ###
 
